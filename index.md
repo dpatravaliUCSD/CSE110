@@ -24,7 +24,7 @@ Here is a list of a few things I like about programming:
 - team collaboration
   
 These are the quarters I've completed at UCSD this school year:
-[x] Fall Quarter
-[x] Winter Quarter
-[ ] Spring Quarter
+- [x] Fall Quarter
+- [x] Winter Quarter
+- [ ] Spring Quarter
 
