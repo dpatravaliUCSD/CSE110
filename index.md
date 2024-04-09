@@ -4,9 +4,12 @@
 _My name is Dhruv and I am excited to be in this course_
 My favorite quote is:
 > Aint nothing to it but to do it
+
 My favorite line of code is:
 `System.out.prinln("Hello World")`
+
 My favorite coding guide is [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+
 ### This is a fun little section header
 [Here is a relative link to a README file](docs/CONTRIBUTING.md)
 
