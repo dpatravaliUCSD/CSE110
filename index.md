@@ -1,7 +1,9 @@
 ![This is my favorite soccer player](https://github.com/dpatravaliUCSD/CSE110/blob/main/LeoMessi.jpeg)
+
 # User Page
 ## This is where I will go over info about me as a programmer and person.
 _My name is Dhruv and I am excited to be in this course_
+
 My favorite quote is:
 > Aint nothing to it but to do it
 
