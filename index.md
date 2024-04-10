@@ -13,7 +13,7 @@ My favorite line of code is:
 My favorite coding guide is [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 
 ### This is a fun little section header
-[Here is a relative link to a README file](docs/CONTRIBUTING.md)
+[Here is a relative link to my README file](README.md)
 
 Here is a list of my favorite programming languages:
 1. C++
